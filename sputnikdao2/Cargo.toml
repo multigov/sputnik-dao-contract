@@ -21,3 +21,5 @@ near-sdk-sim = "4.0.0-pre.4"
 test-token = { path = "../test-token" }
 sputnik-staking = { path = "../sputnik-staking" }
 sputnikdao-factory2 = { path = "../sputnikdao-factory2" }
+
+rudg = "0.1.1"
